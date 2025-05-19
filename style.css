@@ -1,0 +1,122 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(0, 0, 0, 0.3);
+    justify-content: space-between;
+    color: white;
+    padding: 16px;
+}
+
+.c {
+    font-size: x-large;
+
+
+}
+
+
+div a {
+    height: 80px;
+    text-decoration: none;
+    color: white;
+    margin-left: 16px;
+    margin-right: 16px;
+    text-transform: uppercase;
+}
+
+
+
+header {
+    background-image: url(images/lora.jpg);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: multiply;
+
+
+}
+
+.head {
+    color: white;
+
+    font-size: xx-large;
+    text-transform: uppercase;
+
+}
+
+
+.subhead {
+    color: white;
+
+
+
+}
+
+body {
+    margin: 0px;
+}
+
+.container {
+    margin: right 30px;
+    margin-left: 30px;
+    padding-top: 15px;
+
+}
+
+div img {
+    width: 40px;
+    height: 40px;
+    padding-bottom: 45px;
+    padding-top: 50px;
+    margin-left: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-top: 15px;
+    text-align: center;
+    
+}
+
+.divider {
+    border: 1px solid grey;
+
+}
+
+.font {
+
+    color: #140748;
+    font-size: 22px;
+    font-weight: 400;
+
+
+}
+
+.low {
+
+    color: #666666;
+    font-size: 16px;
+    font-weight: 400;
+    v
+}
+
+.fourimg {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 100px;
+    margin-left:100px;
+
+}
+.product img{
+height: 250px;
+width: 250px;
+
+
+}
+
+
+
+
+
+
